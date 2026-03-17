@@ -1,6 +1,7 @@
 # BME-160-Final-Project
 
-Investigating the Effect of TP53 Mutations on Drug Resistance in Cancer Patients/n
+Investigating the Effect of TP53 Mutations on Drug Resistance in Cancer Patients
 
-Abstract:/n
+Abstract:
+
 P53 is a signaling pathway that activates when cellular stress is detected. The gene responsible for coding the suppressor protein to respond to the damage is TP53. TP53 is the most frequently mutated gene in cancer, playing a crucial role in preventing cancer formation. Disruptions in the gene’s ability to bind DNA can allow cancer cells a better chance of survival. Certain mutations can even result in gain-in-function activities where the p53 protein no longer behaves as a tumor suppressor but as an oncogene, influencing tumor development and resistance to chemotherapy. TP53 mutation status is already used for patient treatment predictions; however, analyzing its relationship to drug response may refine the prognostic process to become more accurate and improve our understanding of cancer therapy resistance. The objective of this project is to investigate how TP53 mutations impact drug response in cancer patients. We aim to compare 3 specific TP53 mutations (R175H, R248Q, and R273H) to wild type using drug response and gene expression data. By applying the Wilcoxon rank sum test, we can identify which drugs have a significantly different sensitivity to that mutation. This analysis can help support mutation-specific treatment options.
